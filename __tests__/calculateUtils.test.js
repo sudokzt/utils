@@ -1,4 +1,4 @@
-const { add, subtract } = require("./../calculateUtils");
+const { add, subtract } = require("../utils/calculateUtils");
 
 describe("calculateUtils - add", () => {
   test("adds 1 + 2 to equal 3", () => {
