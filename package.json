@@ -1,0 +1,14 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/github:sudokzt/utils.git",
+  "author": "k.mishima <k.mishima@kyotoinnovation.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
